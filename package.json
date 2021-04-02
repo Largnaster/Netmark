@@ -1,13 +1,13 @@
 {
-  "name": "mypwa",
+  "name": "netmark",
   "version": "1.0.0",
-  "description": "This is my first personal pwa, I'm learning about this stuff",
+  "description": "The Netmark backend that implements the frontend",
   "main": "app.js",
   "scripts": {
     "start": "babel-node app.js --exec"
   },
   "keywords": [
-    "pwa",
+    "landing",
     "learning",
     "test",
     "first",
